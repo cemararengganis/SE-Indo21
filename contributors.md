@@ -1,5 +1,9 @@
 Raula Kula - Professor (ID)
 
+Fadhlih Hasan Setiawan - L200194209
+
+Rafif Apta - L200194212
+
 Yusuf Sulistyo Nugroho - Lecturer (UMS_1197)
 
 
@@ -10,4 +14,8 @@ Dika Pramudyatama - L200190224
 cemara-175
 
 domestic student - 0000
+ 
+cemara-175
 
+domestic student - 0000
+ 
